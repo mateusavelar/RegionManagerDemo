@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegionManagerDemo", "RegionManagerDemo\RegionManagerDemo.csproj", "{EC5CF40B-33C9-4477-82E9-B135F76B7EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC5CF40B-33C9-4477-82E9-B135F76B7EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5CF40B-33C9-4477-82E9-B135F76B7EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5CF40B-33C9-4477-82E9-B135F76B7EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5CF40B-33C9-4477-82E9-B135F76B7EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {709D1926-954C-4797-BE71-AD82BBD744D9}
+	EndGlobalSection
+EndGlobal
